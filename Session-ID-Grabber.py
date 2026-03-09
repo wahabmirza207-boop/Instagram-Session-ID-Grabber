@@ -20,7 +20,8 @@ headers = {
         }
 data = {
 
-        "username":username,
+        "username":username,yahyazaidi28
+
         "reg_login":"0",
         "enc_password":f"#PWD_INSTAGRAM:0:&:{password}",
         "device_id":uuid4(),
@@ -43,3 +44,4 @@ else:
         quit()
 print(f"Session ID: {session_id}")
 input("")
+
